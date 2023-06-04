@@ -3,3 +3,5 @@
 - Find The Closest Value uygulamsı Kullanıcı tarafından girilen değere Maximum ve Minumum en yakın değeri bulan bir uygulamadır
 - Word Write With Multi Dimension Arary, Multi Dimension Array ile 'B' harfini console' a yazdıran bir uygulamadır.
 - Find Repeating Even Numbers, tekrar eden çift sayıları bulmayı amaçlayan bir uygulamadır.
+- Sorting In Array From Small To Large, Kullanıcıdan eleman sayısını ve elemanlarını alan bir dizi
+  oluşturuluyor ve dizi küçükten büyüğe sıralanıp console yazdırılıyor.
