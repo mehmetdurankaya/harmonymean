@@ -10,3 +10,4 @@
 arası bir sayıyı tahmin etmesini istiyor.
 - Find To Palindromik Word, kullanıcı tarafından girilen kelimenin palindromik kelime olup olmadığını
 kontrol eden bir uygulamadır.
+- Matris Transpozu, matrisin aynı numaralı satırları ile sütunlarının yer değiştirmesini sağlayan bir uygulamadır.
