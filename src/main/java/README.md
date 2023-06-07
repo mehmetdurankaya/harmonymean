@@ -6,3 +6,5 @@
 - Sorting In Array From Small To Large, Kullanıcıdan eleman sayısını ve elemanlarını alan bir dizi
   oluşturuluyor ve dizi küçükten büyüğe sıralanıp console yazdırılıyor.
 - Number Of Repeating Elements, tekrar eden sayıları bulur ve tekrar sayısını ekrana yazar.
+- Guess The Number, Sayı tahmin etme oyunu kullanıcının uygulama tarafından otomatik olarak 1-100
+arası bir sayıyı tahmin etmesini istiyor.
