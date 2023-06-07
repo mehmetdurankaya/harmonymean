@@ -8,3 +8,5 @@
 - Number Of Repeating Elements, tekrar eden sayıları bulur ve tekrar sayısını ekrana yazar.
 - Guess The Number, Sayı tahmin etme oyunu kullanıcının uygulama tarafından otomatik olarak 1-100
 arası bir sayıyı tahmin etmesini istiyor.
+- Find To Palindromik Word, kullanıcı tarafından girilen kelimenin palindromik kelime olup olmadığını
+kontrol eden bir uygulamadır.
