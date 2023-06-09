@@ -12,4 +12,5 @@ arası bir sayıyı tahmin etmesini istiyor.
 kontrol eden bir uygulamadır.
 - Matris Transpozu, matrisin aynı numaralı satırları ile sütunlarının yer değiştirmesini sağlayan bir uygulamadır.
 - Recursive Fonksiyon ile asal sayıları bulan bir uygulamadır.
--  Recursive Fonksiyon ile Modele uygun çalşma yapıld.
+-  Recursive Fonksiyon ile Modele uygun çalşma yapıldı.
+- Mine Sweeper (Mayın Tarlası) metin tabanlı oyun uygulamasıdır.
